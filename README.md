@@ -19,3 +19,5 @@ Evaluation parameters with 1st being the highest.
 3. If DB is used in place of CSV/json etc (additional  5 points)
 4. Developing UI is bonus(5 points)
 
+# Start the Django development server
+python manage.py runserver
