@@ -1,0 +1,12 @@
+[
+    {"id": 1, "name": "abc", "total_marks": 85},
+    {"id": 2, "name": "def", "total_marks": 92},
+    {"id": 3, "name": "ghk", "total_marks": 78},
+    {"id": 4, "name": "ijk", "total_marks": 95},
+    {"id": 5, "name": "lmn", "total_marks": 88},
+    {"id": 6, "name": "opq", "total_marks": 70},
+    {"id": 7, "name": "rst", "total_marks": 83},
+    {"id": 8, "name": "uvw", "total_marks": 91},
+    {"id": 9, "name": "xyz", "total_marks": 79},
+    {"id": 10, "name": "pqr", "total_marks": 87}
+]
